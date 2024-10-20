@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/Users/Caleo/Documents/DEVOPS/devops-mao-na-massa/vagrant/html","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Caleo/Documents/DEVOPS/devops-mao-na-massa/vagrant","disabled":false,"__vagrantfile":true}}}

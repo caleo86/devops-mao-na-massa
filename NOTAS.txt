@@ -1,0 +1,36 @@
+Notas curso DEVOPS
+
+COMANDOS:
+	.# vagrant up
+	.# code .
+	.# vagrant ssh
+	.# sudo systemctl [start|stop|status] apache2
+	.# vagrant reload
+	.# df -h 	//Exibi informações sobre o uso do espaço em disco
+	.# 
+	.# 
+	.# 
+	.# 
+	.# 
+	.# 
+	.# 
+	.# 
+	.# 
+	.# 
+	
+	. GIT: 
+		Criação de repositórios
+		-# init
+		Executar alterações
+		-# status
+		-# add
+		-# commit
+		Sync entre repositórios
+		-# add origin
+		-# push
+		-# pull
+		Desenvolvimento paralelo
+		-# branch
+		-# merge
+		reverte o git add sem perder as alterações
+		-# git reset
